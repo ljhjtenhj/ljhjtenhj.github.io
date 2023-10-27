@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # html-resume-template
 
 Single-page resume template built using HTML, CSS, and JS that can be viewed on the web or exported to a PDF.
@@ -50,3 +51,6 @@ This software uses `localStorage`, `template`, flexbox, and custom properties an
 
 This application does not communicate or sync with a server, and all data is saved locally.
 It may not be able to save if `localStorage` is disabled for any reason.
+=======
+# ljhjtenhj.github.io
+>>>>>>> a2e7ccc61d3ed0694d6bcbf16ddffd77646ada15
